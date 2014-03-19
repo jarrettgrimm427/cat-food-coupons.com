@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /pet/
+Sitemap: http://www.cat-food-coupons.com/sitemap.xml 

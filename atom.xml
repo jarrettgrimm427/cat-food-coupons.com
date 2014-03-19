@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Cat Food Coupons Blogs]]></title>
+  <link href="http://www.cat-food-coupons.com/atom.xml" rel="self"/>
+  <link href="http://www.cat-food-coupons.com/"/>
+  <updated>2014-03-19T16:45:05+00:00</updated>
+  <id>http://www.cat-food-coupons.com/</id>
+  <author>
+    <name><![CDATA[Jarrett Grimm]]></name>
+    
+  </author>
+
+  
+</feed>
